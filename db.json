@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Go to Church",
+      "day": "Megabit 7 at  4:00 am",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Meeting at work",
+      "day": "Megabit 7 at  7:00 am",
+      "reminder": true
+    },
+    {
+      "text": "Create Employee table",
+      "day": "Monday",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
